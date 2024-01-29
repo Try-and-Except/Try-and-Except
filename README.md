@@ -11,10 +11,9 @@
 
 ### Contact with me 📝
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+2001030274869&text=hello!)](https://api.whatsapp.com/send?phone=+2001030274869&text=hello!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://web.telegram.org/k/#@ahmedramadanabdelnaser)](https://web.telegram.org/k/#@ahmedramadanabdelnaser)
-<a href="https://mail.proton.me/u/0/inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/ahmed-ramadan-9b5a32221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/KILLER-RAMADAN/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
+<a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/Try-and-Except" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 
 
 
