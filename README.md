@@ -48,3 +48,14 @@
 ---
 
 <br/>
+
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=killer-ramadan&show_icons=true&locale=en&layout=compact" alt="killer-ramadan" /></p>
+
+![VisitorCount](https://profile-counter.glitch.me/{KILLER-RAMADAN}/count.svg)
+<br/>
+
+
+
+---
